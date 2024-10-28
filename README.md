@@ -25,4 +25,4 @@ a plugin that generates a website with this theme from existing markdown files.
 To enable dark theme on the webpage, add `dark.css` to stylesheet after
 `main.css`
 
-![Themes preview.](https://github.com/hanggrian/cayman-dark/raw/assets/preview_themes.png)
+![Themes preview.](https://github.com/hanggrian/cayman-dark-theme/raw/assets/preview_themes.png)
